@@ -1,0 +1,16 @@
+# Description of variables
+x_test : It stores original test component of dataset
+y_test : It stores activity code assigned for those six activities
+
+x_train : It stores orginal train component of dataset
+y_train : Stores activity code assigned for those six activities
+
+features : Stores column heading of data set
+
+activityfile : store activities
+
+d_train : combine dataset of train, x_train, subjectTrain, y_train
+d_test : combine dataset of test, x_test, subjectTest, y_test
+
+final_tidy : Stores final tidy dataset
+
